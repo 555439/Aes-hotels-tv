@@ -1,28 +1,52 @@
-<!DOCTYPE html><html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AES Hotel TV - IPTV Haut Débit Économique pour Hôtels, Restaurants et Bars</title>
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css">
-    <style>
-        /* Toutes les améliorations seront insérées ici ensuite */
-    </style>
-</head>
-<body class="bg-gray-50 font-sans">
-    <!-- Contenu existant ici... --><!-- Pied de page professionnel -->
-<footer class="bg-white border-t mt-20 py-10 text-center text-gray-600 text-sm">
-    <div class="max-w-7xl mx-auto px-4">
-        <p>&copy; 2025 AES Hôtel TV. Tous droits réservés.</p>
-        <div class="mt-2 space-x-4">
-            <a href="mailto:aesipsaheltv@gmail.com" class="hover:underline">aesipsaheltv@gmail.com</a>
-            <span>|</span>
-            <a href="https://wa.me/22679949312" class="hover:underline">+226 79 94 93 12</a>
-            <span>|</span>
-            <a href="#" class="hover:underline">Conditions d'utilisation</a>
-        </div>
-    </div>
-</footer>
-
-</body>
-</html>
+‎<!DOCTYPE html><html lang="fr">
+‎<head>
+‎  <meta charset="UTF-8">
+‎  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+‎  <title>AES Hôtels TV</title>
+‎  <style>
+‎    body {
+‎      font-family: Arial, sans-serif;
+‎      background: #f4f4f4;
+‎      color: #333;
+‎      margin: 0;
+‎      padding: 0;
+‎    }
+‎    header {
+‎      background: #0a3c78;
+‎      color: white;
+‎      padding: 1em;
+‎      text-align: center;
+‎    }
+‎    .section {
+‎      padding: 2em;
+‎      max-width: 800px;
+‎      margin: auto;
+‎      background: white;
+‎      margin-bottom: 1em;
+‎      border-radius: 8px;
+‎    }
+‎    h2 {
+‎      color: #0a3c78;
+‎    }
+‎    .cta-button {
+‎      display: inline-block;
+‎      background: #0a3c78;
+‎      color: white;
+‎      padding: 1em 2em;
+‎      border-radius: 8px;
+‎      text-decoration: none;
+‎      font-weight: bold;
+‎    }
+‎    .cta-button:hover {
+‎      background: #062953;
+‎    }
+‎  </style>
+‎</head>
+‎<body><header>
+‎  <h1>AES Hôtels TV</h1>
+‎  <p>La télévision à vie pour vos clients — Une seule fois, pour toujours.</p>
+‎</header><section class="section">
+‎  <h2>Pourquoi AES Hôtels TV ?</h2>
+‎  <ul>
+‎    <li>É
+‎
